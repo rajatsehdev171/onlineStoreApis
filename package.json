@@ -1,0 +1,17 @@
+{
+  "name": "onlinestore",
+  "version": "1.0.0",
+  "description": "'store management'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "mongoose": "^5.3.14"
+  },
+  "author": "Rajat Sehdev",
+  "license": "ISC"
+}
